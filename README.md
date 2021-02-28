@@ -12,4 +12,4 @@ Locate the `start.bat` located at `C:\Users\Administrator\Desktop\rust\server`. 
 ![startserver](https://user-images.githubusercontent.com/51522724/109436318-581d3b00-7a38-11eb-8235-000c5ff981eb.JPG)
 
 ### MODDED:
-MAKE SURE YOU UPDATE VANILLA SIDE FIRST. in moddded you need to grab files from umod[https://umod.org/games/rust] website and click on download.
+MAKE SURE YOU UPDATE VANILLA SIDE FIRST. in moddded you need to grab files from [umod](https://umod.org/games/rust) website and click on download.
