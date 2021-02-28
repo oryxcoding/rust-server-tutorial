@@ -3,7 +3,7 @@ Tutorials for admins/staff in arab rust.
 
 ##### Table of Contents  
 [How to update server vanilla/modded](#headers)  
-[Emphasis](#emphasis) 
+[How to wipe server vanilla/modded](#emphasis) 
 <a name="headers"/>
 ## How to update server vanilla/modded
 Updating server will not affect the server data unless it was patch from force wipe. I recommand checking/updating before every wipe, We will assume for now that force wipe just came out and we will update the server.
@@ -13,3 +13,4 @@ Locate the `start.bat` located at `C:\Users\Administrator\Desktop\rust\server`. 
 
 ### MODDED:
 First make sure you update vanilla side then update moddded. in moddded you need to grab files from [umod](https://umod.org/games/rust) website and click on download. Drag files from the .zip file to `C:\Users\Administrator\Desktop\rust\server`. You will be asked to overwriting files press OK. Once its done start the server and to verify type in console(once it starts) `plugins` and it should show all plugins installed.
+## How to wipe server vanilla/modded
