@@ -1,7 +1,7 @@
 # Rust Server Tutorial
 Tutorials for admins/staff in arab rust.
 
-#### Table of Contents  
+### Table of Contents  
 ###### General:
 1.[How to update server vanilla/modded](#headers)  
 2.[How to wipe server vanilla/modded](#headers) 
