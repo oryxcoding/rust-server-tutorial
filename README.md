@@ -12,7 +12,7 @@ Locate the `start.bat` located at `C:\Users\Administrator\Desktop\rust\server`. 
 ![startserver](https://user-images.githubusercontent.com/51522724/109436435-f6110580-7a38-11eb-8988-136a89c6d05c.JPG)
 
 ### Modded
-First make sure you update vanilla side then update moddded. in moddded you need to grab files from [umod](https://umod.org/games/rust) website and click on download. Drag files from the .zip file to `C:\Users\Administrator\Desktop\rust\server`. You will be asked to overwriting files press OK. Once its done start the server and to verify type in console(once it starts) `plugins` and it should show all plugins installed.
+First make sure you update vanilla side then update moddded. In moddded you need to grab files from [umod](https://umod.org/games/rust) website and click on download. Drag files from the .zip file to `C:\Users\Administrator\Desktop\rust\server`. You will be asked to overwrite files press OK. Once its done start the server and to verify type in console(once it starts) `plugins` and it should show all plugins installed.
 ## How to wipe server vanilla/modded
 
 ### Map, player, and blueprints wipe
