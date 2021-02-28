@@ -25,3 +25,4 @@ Deleting modded data such as home location, player currency, or backpack invento
 ![teleporthome](https://user-images.githubusercontent.com/51522724/109436946-bef02380-7a3b-11eb-8ad4-51a8ec0177e8.JPG)
 
 ## Install/configure/delete plugins
+(Later...)
