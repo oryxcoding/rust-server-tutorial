@@ -28,3 +28,4 @@ shutdown the server and go to `C:\Users\Administrator\Desktop\rust\server\server
 Deleting modded data such as home location, player currency, or backpack inventory is important for a wipe. All modded data can be found at `C:\Users\Administrator\Desktop\rust\server\oxide\data` and not all data should be deleted some are needed. So lets say we wanna delete home teleportation so we would delete `NTeleportationHome.json`.
 ![teleporthome](https://user-images.githubusercontent.com/51522724/109436946-bef02380-7a3b-11eb-8ad4-51a8ec0177e8.JPG)
 
+## Install/configure/delete plugins
