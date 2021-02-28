@@ -2,7 +2,7 @@
 Tutorials for admins/staff in arab rust.
 
 ##### Table of Contents  
-1. [How to update server vanilla/modded](#headers)  
+1. [How to update server vanilla/modded](https://github.com/oryxcoding/rust-server-tutorial/blob/main/README.md#how-to-update-server-vanillamodded)  
 2. [How to wipe server vanilla/modded](https://github.com/oryxcoding/rust-server-tutorial/blob/main/README.md#how-to-wipe-server-vanillamodded) 
 3. [Install/configure/delete plugins](#headers)
 ## How to update server vanilla/modded
